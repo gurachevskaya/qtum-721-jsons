@@ -1,0 +1,1 @@
+{"title":"Title","type":"object","properties":{"name":{"type":"string","description":"You are welcome"},"description":{"type":"string","description":"Some greate token"},"image":{"type":"string","description":"https://homepages.cae.wisc.edu/~ece533/images/zelda.png"}}}
